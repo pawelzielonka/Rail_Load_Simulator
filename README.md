@@ -1,2 +1,2 @@
-# Vamos_
+# Rail Load Simulator
 Symulator ruchu kolejowego
